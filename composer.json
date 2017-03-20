@@ -1,6 +1,6 @@
 {
     "name": "travoltron/slack-laravel",
-    "description": "Laravel 4 and 5 integration for the maknz/slack package, including facades and service providers.",
+    "description": "Adds Laravel 5.4 support [Forked] Laravel 4 and 5 integration for the maknz/slack package, including facades and service providers.",
     "keywords": ["slack", "laravel"],
     "license": "BSD-2-Clause",
     "authors": [
